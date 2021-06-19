@@ -1,6 +1,5 @@
 # PP-4-GKiW-doom
-Recreation of popular game Doom using OpenGL
-Made with [KanarXD](https://github.com/KanarXD)
+Recreation of popular game Doom using OpenGL. Made with [KanarXD](https://github.com/KanarXD).
 
 ## Controls
 | Input        | Function        |
