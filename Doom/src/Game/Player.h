@@ -45,12 +45,8 @@ private:
 	float timer{ 0 };
 	bool isShoot{ false };
 
-
-	const Model* rifleModel;
 public:
 	static std::shared_ptr<Player> GetInstance();
-
-	Player();
 
 	void Update(float dt);
 	void Draw();
