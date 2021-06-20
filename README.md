@@ -10,7 +10,7 @@ Recreation of popular game Doom using OpenGL. Made with [KanarXD](https://github
 | `Space`      | Jumping         |
 | `Esc` 	   | Close game      |
 | `Mouse`      | Camera movement |
-| `LPM`        | Shoot           |
+| `LMB`        | Shoot           |
 
 ### Screen shots from the game
 
